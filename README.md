@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
+![Dashboard Preview](./media/img.png)
 
 ## 📌 Executive Summary
 This project is an end-to-end Machine Learning and Data Analytics pipeline designed to evaluate a **$436M bank loan portfolio**. Moving beyond traditional historical reporting, this project utilizes Python-based machine learning to predict loan defaults, identify high-risk segments, and visualize portfolio vulnerabilities. 
