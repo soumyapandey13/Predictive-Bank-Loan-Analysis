@@ -12,7 +12,7 @@ By engineering a custom predictive model and connecting its outputs to a highly 
 ## 🛠️ The Full-Stack Analytics Workflow
 
 ### 1. Data Processing & Structuring (SQL)
-* **Ingestion & Cleaning:** Extracted raw financial data (`Bank_loan_data`) containing over 38,000 records of borrower demographics, loan attributes, and repayment status.
+* **Ingestion & Cleaning:** Extracted raw financial data (`Bank_loan_data`) containing over 38,000 records of borrower demographics, loan attributes,  and repayment status.
 * **Transformation:** Utilized custom queries (`data_cleaning.sql`) to handle missing values, standardize financial formats (DTI, income, term, interest rates), and derive structured features for model training.
 
 ### 🤖 Machine Learning Model Performance
