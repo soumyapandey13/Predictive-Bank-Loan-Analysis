@@ -13,7 +13,7 @@ By engineering a custom predictive model and connecting its outputs to a highly 
 
 ### 1. Data Processing & Structuring (SQL)
 * **Ingestion & Cleaning:** Extracted raw financial data containing over 38,000 records of borrower demographics, loan attributes, and repayment status.
-* **Transformation:** Utilized custom queries (`data_cleaning.sql`) to handle missing values, standardize financial formats (DTI, income, term, interest rates), and derive structured features for model training.
+* **Transformation:** Utilized custom queries (`Bank_loan_data_queries.sql`) to handle missing values, standardize financial formats (DTI, income, term, interest rates), and derive structured features for model training.
 
 ### 2. Machine Learning & Predictive Modeling (Python)
 * **Algorithm Training:** Developed a custom Python script (`model_training.py`) to analyze historical repayment behaviors (Good Loans vs. Bad Loans).
@@ -46,7 +46,7 @@ By engineering a custom predictive model and connecting its outputs to a highly 
 4. Open the `.pbix` file located in the `dashboard` folder using **Microsoft Power BI Desktop** to view the interactive visualizations.
 
 ## 📁 Repository Structure
-* **`/scripts/`** - Contains `data_cleaning.sql` and `model_training.py` used for processing and predictive modeling.
+* **`/scripts/`** - Contains `Bank_loan_data_queries.sql` and `model_training.py` used for processing and predictive modeling.
 * **`/dashboard/`** - Contains the final interactive Power BI `.pbix` file.
 * **`/data/`** - Contains the raw `Bank_loan_data` and the processed `ML_Dataset_For_PowerBI`.
 * **`/media/`** - Contains high-resolution screenshots and video demonstrations of the UI.
