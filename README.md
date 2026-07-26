@@ -48,7 +48,7 @@ By engineering a custom predictive model and connecting its outputs to a highly 
 ## 📁 Repository Structure
 * **`/scripts/`** - Contains `data_cleaning.sql` and `model_training.py` used for processing and predictive modeling.
 * **`/dashboard/`** - Contains the final interactive Power BI `.pbix` file.
-* **`/data/`** - Contains the raw `Bank_loan_data` and the processed `Final_ML_Dataset_For_PowerBI`.
+* **`/data/`** - Contains the raw `Bank_loan_data` and the processed `ML_Dataset_For_PowerBI`.
 * **`/media/`** - Contains high-resolution screenshots and video demonstrations of the UI.
 
 mail - pandeysoumyaa13@gmail.com
